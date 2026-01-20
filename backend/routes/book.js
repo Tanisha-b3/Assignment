@@ -1,4 +1,4 @@
-// routes/bookingRoutes.js
+
 import express from 'express'
 import Booking from '../Models/book.js'
 import Room from '../Models/rooms.js'
